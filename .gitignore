@@ -1,0 +1,7 @@
+# Folders
+.venv
+.history
+__pycache__
+
+# Files
+.env
